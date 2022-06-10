@@ -1,19 +1,16 @@
 {
   "topics": [
     {
-      "id": 1,
-      "name": "Concepción",
-      "completed": false
+      "address_name": "Talcahuano",
+      "pyme_name": "Taller de Frenos Jaime Repullo"
     },
     {
-      "id": 2,
-      "name": "Talcahuano",
-      "completed": true
+      "address_name": "Hualpen",
+      "pyme_name": "Taller MACO"
     },
     {
-      "id": 3,
-      "name": "Penco",
-      "completed": false
+      "address_name": "Concepción",
+      "pyme_name": "Taller Pedro El Escamoso"
     }
   ]
 }
